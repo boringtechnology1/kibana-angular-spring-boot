@@ -1,1 +1,0 @@
-# kibana-angular-spring-boot
